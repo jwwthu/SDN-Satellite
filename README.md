@@ -8,6 +8,7 @@ This is the repository for the collection of software-defined satellite networks
 ## Architectures
 ### 2021
 * Al-Hraishawi H, Minardi M, Chougrani H, et al. <b>Multi-layer Space Information Networks: Access Design and Softwarization[J]</b>. IEEE Access, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9627690/)
+* Zhang P, Wang C, Kumar N, et al. <b>Space-Air-Ground Integrated Multi-Domain Network Resource Orchestration Based on Virtual Network Architecture: A DRL Method[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9505612/)
 
 ### 2020
 * Papa A, De Cola T, Vizarreta P, et al. <b>Design and evaluation of reconfigurable SDN LEO constellations[J]</b>. IEEE Transactions on Network and Service Management, 2020, 17(3): 1432-1445. [Link](https://ieeexplore.ieee.org/abstract/document/9090181/)
@@ -46,10 +47,12 @@ This is the repository for the collection of software-defined satellite networks
 * Torkzaban N, Baras J S. <b>Joint Satellite Gateway Deployment & Controller Placement in Software-Defined 5G-Satellite Integrated Networks[J]</b>. arXiv preprint arXiv:2103.08735, 2021. [Link](https://arxiv.org/abs/2103.08735)
 * Chen L, Tang F, Li X. <b>Mobility-and Load-Adaptive Controller Placement and Assignment in LEO Satellite Networks[C]</b>//IEEE INFOCOM 2021-IEEE Conference on Computer Communications. IEEE, 2021: 1-10. [Link](https://ieeexplore.ieee.org/abstract/document/9488806/)
 * Han Z, Xu C, Xiong Z, et al. <b>On-Demand Dynamic Controller Placement in Software Defined Satellite-Terrestrial Networking[J]</b>. IEEE Transactions on Network and Service Management, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9360662/)
+* Guo J, Yang L, Rincón D, et al. <b>SDN Controller Placement in LEO Satellite Networks Based on Dynamic Topology[C]</b>//2021 IEEE/CIC International Conference on Communications in China (ICCC). IEEE, 2021: 1083-1088. [Link](https://ieeexplore.ieee.org/abstract/document/9580367/)
 
 ### 2020
 * Zhang X, Tang F, Cao L, et al. <b>Dynamical Controller Placement Among SDN Space-Terrestrial Integrated Networks[C]</b>//2020 IEEE 22nd International Conference on High Performance Computing and Communications; IEEE 18th International Conference on Smart City; IEEE 6th International Conference on Data Science and Systems (HPCC/SmartCity/DSS). IEEE, 2020: 352-359. [Link](https://ieeexplore.ieee.org/abstract/document/9407851/)
 * Luong D K, Hu Y F, Li J P, et al. <b>Metaheuristic Approaches to the Joint Controller and Gateway Placement in 5G-Satellite SDN Networks[C]</b>//ICC 2020-2020 IEEE International Conference on Communications (ICC). IEEE, 2020: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/9149373/)
+* Zhang T, Bai F, Dong T, et al. <b>Switching-Aware Dynamic Control Path Planning for Software Defined Large-Scale LEO Satellite Networks with GEO Controllers[C]</b>//International Conference on Wireless and Satellite Systems. Springer, Cham, 2020: 153-167. [Link](https://link.springer.com/chapter/10.1007/978-3-030-69069-4_13)
 
 ### 2019
 * Yang K, Zhang B, Guo D. <b>Controller and gateway partition placement in SDN-enabled integrated satellite-terrestrial network[C]</b>//2019 IEEE International Conference on Communications Workshops (ICC Workshops). IEEE, 2019: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/8756884/)
@@ -81,7 +84,7 @@ This is the repository for the collection of software-defined satellite networks
 
 ## Routing
 ### 2021
-* Kumar P, Bhushan S, Halder D, et al. <b>fybrrLink: Efficient QoS-aware Routing in SDN enabled Next-Gen Satellite Networks[J]</b>. arXiv preprint arXiv:2106.07778, 2021. [Link](https://arxiv.org/abs/2106.07778)
+* Kumar P, Bhushan S, Halder D, et al. <b>fybrrLink: Efficient QoS-aware Routing in SDN enabled Future Satellite Networks[J]</b>. IEEE Transactions on Network and Service Management, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9625013/)
 * Wu Y, Hu G, Jin F, et al. <b>Multi-Objective Optimisation in Multi-QoS Routing Strategy for Software-Defined Satellite Network[J]</b>. Sensors, 2021, 21(19): 6356. [Link](https://www.mdpi.com/1424-8220/21/19/6356)
 * Ouyang M, Duan X, Liu J, et al. <b>Multi-path Transmission Scheme Based on Segment Control in Low-Earth-Orbit Satellite Network[C]</b>//2021 IEEE 22nd International Conference on High Performance Switching and Routing (HPSR). IEEE, 2021: 1-7. [Link](https://ieeexplore.ieee.org/abstract/document/9481813/)
 
@@ -104,6 +107,9 @@ This is the repository for the collection of software-defined satellite networks
 * Zhu Y, Qian L, Ding L, et al. <b>Software defined routing algorithm in LEO satellite networks[C]</b>//2017 International Conference on Electrical Engineering and Informatics (ICELTICs). IEEE, 2017: 257-262. [Link](https://ieeexplore.ieee.org/abstract/document/8253282/)
 
 ## Mobile Edge Computing
+### 2022
+* Wang B, Feng T, Huang D, et al. <b>Mobile Edge Computing for LEO Satellite: A Computation Offloading Strategy Based Improved Ant Colony Algorithm[C]</b>//Proceedings of the 11th International Conference on Computer Engineering and Networks. Springer, Singapore, 2022: 1664-1676. [Link](https://link.springer.com/chapter/10.1007/978-981-16-6554-7_183)
+
 ### 2019
 * Wei J, Cao S. <b>Application of edge intelligent computing in satellite Internet of Things[C]</b>//2019 IEEE International Conference on Smart Internet of Things (SmartIoT). IEEE, 2019: 85-91. [Link](https://ieeexplore.ieee.org/abstract/document/8896440/)
 * Qiu C, Yao H, Yu F R, et al. <b>Deep q-learning aided networking, caching, and computing resources allocation in software-defined satellite-terrestrial networks[J]</b>. IEEE Transactions on Vehicular Technology, 2019, 68(6): 5871-5883. [Link](https://ieeexplore.ieee.org/abstract/document/8675467/)
@@ -122,9 +128,20 @@ This is the repository for the collection of software-defined satellite networks
 ### 2018
 * Ahmed T, Alleg A, Ferrus R, et al. <b>On-demand network slicing using SDN/NFV-enabled satellite ground segment systems[C]</b>//2018 4th IEEE Conference on Network Softwarization and Workshops (NetSoft). ieee, 2018: 242-246. [Link](https://ieeexplore.ieee.org/abstract/document/8460139/)
 
-## Virtual Network Embedding
+## Virtual Network Embedding and Service Function Chaining
+### 2021
+* Guo Y, Li Q, Li Y, et al. <b>Service Coordination in the Space-Air-Ground Integrated Network[J]</b>. IEEE Network, 2021, 35(5): 168-173. [Link](https://ieeexplore.ieee.org/abstract/document/9606832/)
+* Jia Z, Sheng M, Li J, et al. <b>VNF-based Service Provision in Software Defined LEO Satellite Networks[J]</b>. IEEE Transactions on Wireless Communications, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9406391/)
+
 ### 2020
 * Yang D, Liu J, Zhang R, et al. <b>Multi-Constraint Virtual Network Embedding Algorithm For Satellite Networks[C]</b>//GLOBECOM 2020-2020 IEEE Global Communications Conference. IEEE, 2020: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/9347993/)
+* Gao X, Liu R, Kaushik A. <b>Service Chaining Placement Based on Satellite Mission Planning in Ground Station Networks[J]</b>. IEEE Transactions on Network and Service Management, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9296849/)
+* Wang G, Zhou S, Zhang S, et al. <b>SFC-based service provisioning for reconfigurable space-air-ground integrated networks[J]</b>. IEEE Journal on Selected Areas in Communications, 2020, 38(7): 1478-1489. [Link](https://ieeexplore.ieee.org/abstract/document/9062531/)
+* Gao X, Liu R, Kaushik A. <b>Virtual Network Function Placement in Satellite Edge Computing with a Potential Game Approach[J]</b>. arXiv preprint arXiv:2012.00941, 2020. [Link](https://arxiv.org/abs/2012.00941)
+* Jia Z, Sheng M, Li J, et al. <b>Virtual network functions orchestration in software defined LEO small satellite networks[C]</b>//ICC 2020-2020 IEEE International Conference on Communications (ICC). IEEE, 2020: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/9148906/)
+
+### 2019
+* Liu J, He X, Chen T, et al. <b>Sn-vne: A virtual network embedding algorithm for satellite networks[C]</b>//2019 IEEE/CIC International Conference on Communications Workshops in China (ICCC Workshops). IEEE, 2019: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/8849950/)
 
 ### 2018
 * Li G, Zhou H, Feng B, et al. <b>Horizontal-based orchestration for multi-domain SFC in SDN/NFV-enabled satellite/terrestrial networks[J]</b>. China Communications, 2018, 15(5): 77-91. [Link](https://ieeexplore.ieee.org/abstract/document/8387988/)
@@ -137,6 +154,8 @@ This is the repository for the collection of software-defined satellite networks
 ## Other Problems
 ### 2021
 * Guo J, Yang L, Liu X, et al. <b>Performance Modelling and Evaluation of In-Band Control Mode in Software-Defined Satellite Networks Based on Queuing Theory[C]</b>//2021 2nd International Conference on Computing, Networks and Internet of Things. 2021: 1-6. [Link](https://dl.acm.org/doi/fullHtml/10.1145/3468691.3468697)
+* Minardi M, Politis C, Zimmer F, et al. <b>SDN for Gateway Diversity Implementation in Satellite Networks[C]</b>//2021 International Symposium on Networks, Computers and Communications (ISNCC). IEEE, 2021: 1-5. [Link](https://ieeexplore.ieee.org/abstract/document/9615838/)
+* Zheng G, Wang N, Tafazolli R, et al. <b>Virtual Data-Plane Addressing for SDN-based Space and Terrestrial Network Integration[C]</b>//2021 IEEE 22nd International Conference on High Performance Switching and Routing (HPSR). IEEE, 2021: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/9481837/)
 
 ### 2020
 * Lang X, Gui L. <b>Design of Southbound Interfaces in Heterogeneous Software-Defined Satellite Networks[C]</b>//International Conference on Space Information Network. Springer, Singapore, 2020: 179-189. [Link](https://link.springer.com/chapter/10.1007/978-981-16-1967-0_13)
