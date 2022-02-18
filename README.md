@@ -43,7 +43,7 @@ This is the repository for the collection of software-defined satellite networks
 ## Controller Placement
 ### 2021
 * Ningyuan W, Chen D, Liang L, et al. <b>An SDN Based Highly Reliable in-Band Control Framework for LEO Mega-Constellations[C]</b>//2021 IEEE 6th International Conference on Computer and Communication Systems (ICCCS). IEEE, 2021: 970-975. [Link](https://ieeexplore.ieee.org/abstract/document/9449244/)
-* Torkzaban N, Baras J S. <b>Controller Placement in SDN-enabled 5G Satellite-Terrestrial Networks[J]</b>. arXiv preprint arXiv:2108.09176, 2021. [Link](https://arxiv.org/abs/2108.09176)
+* Torkzaban N, Baras J S. <b>Controller Placement in SDN-enabled 5G Satellite-Terrestrial Networks[C]</b>. GLOBECOM 2021-2021 IEEE Global Communications Conference. IEEE, 2021. [Link](https://arxiv.org/abs/2108.09176)
 * Torkzaban N, Baras J S. <b>Joint Satellite Gateway Deployment & Controller Placement in Software-Defined 5G-Satellite Integrated Networks[J]</b>. arXiv preprint arXiv:2103.08735, 2021. [Link](https://arxiv.org/abs/2103.08735)
 * Chen L, Tang F, Li X. <b>Mobility-and Load-Adaptive Controller Placement and Assignment in LEO Satellite Networks[C]</b>//IEEE INFOCOM 2021-IEEE Conference on Computer Communications. IEEE, 2021: 1-10. [Link](https://ieeexplore.ieee.org/abstract/document/9488806/)
 * Han Z, Xu C, Xiong Z, et al. <b>On-Demand Dynamic Controller Placement in Software Defined Satellite-Terrestrial Networking[J]</b>. IEEE Transactions on Network and Service Management, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9360662/)
