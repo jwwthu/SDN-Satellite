@@ -3,7 +3,7 @@ This is the repository for the collection of software-defined satellite networks
 
 **Advertisement**: We would like to cordially invite you to submit a paper to our special issue on "Satellite Based IoT Networks for Emerging Applications" for Sensors (SCI-indexed, ISSN 1424-8220, Impact Factor: 3.576).
 * Special issue website: [https://www.mdpi.com/journal/sensors/special_issues/Satellite_IOT](https://www.mdpi.com/journal/sensors/special_issues/Satellite_IOT)
-* Deadline for manuscript submissions: **1 December 2022**.
+* Deadline for manuscript submissions: **31 August 2023**.
 
 ## Surveys
 * Ferrús R, Koumaras H, Sallent O, et al. <b>SDN/NFV-enabled satellite communications networks: Opportunities, scenarios and challenges[J]</b>. Physical Communication, 2016, 18: 95-112. [Link](https://www.sciencedirect.com/science/article/pii/S1874490715000543)
