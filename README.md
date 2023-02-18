@@ -116,6 +116,7 @@ If you find this repository helpful, you may consider cite our relevant work:
 
 ## Mobile Edge Computing
 ### 2022
+* Zhou T, Liang C, Chen Q. <b>Joint Caching and Computing of Software-Defined Space-Air-Ground Integrated Networks for Video Streaming Service Improvement[C]</b>//2022 IEEE 96th Vehicular Technology Conference (VTC2022-Fall). IEEE, 2022: 1-5. [Link](https://ieeexplore.ieee.org/abstract/document/10012719/)
 * Wang B, Feng T, Huang D, et al. <b>Mobile Edge Computing for LEO Satellite: A Computation Offloading Strategy Based Improved Ant Colony Algorithm[C]</b>//Proceedings of the 11th International Conference on Computer Engineering and Networks. Springer, Singapore, 2022: 1664-1676. [Link](https://link.springer.com/chapter/10.1007/978-981-16-6554-7_183)
 
 ### 2019
@@ -130,6 +131,10 @@ If you find this repository helpful, you may consider cite our relevant work:
 * Liao S, Dong M, Ota K, et al. <b>Vehicle mobility-based geographical migration of fog resource for satellite-enabled smart cities[C]</b>//2018 IEEE Global Communications Conference (GLOBECOM). IEEE, 2018: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/8647525/)
 
 ## Network Slicing
+### 2022
+* Bai Y, Liang C, Chen Q. <b>Network Slice Admission Control and Resource Allocation in LEO Satellite Networks: A Robust Optimization Approach[C]</b>//2022 27th Asia Pacific Conference on Communications (APCC). IEEE, 2022: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/9943670/)
+* Rodrigues T K, Kato N. <b>Network slicing with centralized and distributed reinforcement learning for combined satellite/ground networks in a 6G environment[J]</b>. IEEE Wireless Communications, 2022, 29(1): 104-110. [Link](https://ieeexplore.ieee.org/abstract/document/9749189/)
+
 ### 2021
 * Hendaoui S, Zangarz C N. <b>Leveraging SDN slicing isolation for improved adaptive satellite-5G downlink scheduler[C]</b>//2021 International Symposium on Networks, Computers and Communications (ISNCC). IEEE, 1-5. [Link](https://ieeexplore.ieee.org/abstract/document/9615755/)
 
@@ -137,6 +142,26 @@ If you find this repository helpful, you may consider cite our relevant work:
 * Ahmed T, Alleg A, Ferrus R, et al. <b>On-demand network slicing using SDN/NFV-enabled satellite ground segment systems[C]</b>//2018 4th IEEE Conference on Network Softwarization and Workshops (NetSoft). ieee, 2018: 242-246. [Link](https://ieeexplore.ieee.org/abstract/document/8460139/)
 
 ## Virtual Network Embedding and Service Function Chaining
+## 2023
+* Yang H, Liu W, Wang X, et al. <b>Group Sparse Space Information Network with Joint Virtual Network Function Deployment and Maximum Flow Routing Strategy[J]</b>. IEEE Transactions on Wireless Communications, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10012399/)
+* Qin X, Ma T, Tang Z, et al. <b>Service-Aware Resource Orchestration in Ultra-Dense LEO Satellite-Terrestrial Integrated 6G: A Service Function Chain Approach[J]</b>. IEEE Transactions on Wireless Communications, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10032237/)
+
+## 2022
+* Kim T, Kwak J, Choi J P. <b>Analysis of Low-Latency Virtual Network Resource Reservation for LEO Satellite Network[C]</b>//2022 27th Asia Pacific Conference on Communications (APCC). IEEE, 2022: 639-640. [Link](https://ieeexplore.ieee.org/abstract/document/9943654/)
+* Gao X, Liu R, Kaushik A. <b>Virtual network function placement in satellite edge computing with a potential game approach[J]</b>. IEEE Transactions on Network and Service Management, 2022, 19(2): 1243-1259. [Link](https://ieeexplore.ieee.org/abstract/document/9674029/)
+* Liu Z, Dong X, Wang L, et al. <b>Satellite Network Task Deployment Method Based on SDN and ICN[J]</b>. Sensors, 2022, 22(14): 5439. [Link](https://www.mdpi.com/1424-8220/22/14/5439)
+* Gao X, Liu R, Kaushik A, et al. <b>Dynamic resource allocation for virtual network function placement in satellite edge clouds[J]</b>. IEEE Transactions on Network Science and Engineering, 2022, 9(4): 2252-2265. [Link](https://ieeexplore.ieee.org/abstract/document/9736613/)
+* Maity I, Vu T X, Chatzinotas S, et al. <b>D-ViNE: Dynamic Virtual Network Embedding in Non-Terrestrial Networks[C]</b>//2022 IEEE Wireless Communications and Networking Conference (WCNC). IEEE, 2022: 166-171. [Link](https://ieeexplore.ieee.org/abstract/document/9830496/)
+* Gao X, Liu R, Kaushik A, et al. <b>Dynamic Resource Management for Neighbor-based VNF Placement in Decentralized Satellite Networks[C]</b>//2022 1st International Conference on 6G Networking (6GNet). IEEE, 2022: 1-5. [Link](https://ieeexplore.ieee.org/abstract/document/9830496/)
+* Zhang P, Zhang Y, Kumar N, et al. <b>Dynamic SFC Embedding Algorithm Assisted by Federated Learning in Space-Air-Ground Integrated Network Resource Allocation Scenario[J]</b>. IEEE Internet of Things Journal, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9951143/)
+* Zhang L, Yang C, Ouyang Y, et al. <b>ISFC: Intent-driven Service Function Chaining for Satellite Networks[C]</b>//2022 27th Asia Pacific Conference on Communications (APCC). IEEE, 2022: 544-549. [Link](https://ieeexplore.ieee.org/abstract/document/9943606/)
+* Zhang P, Su Y, Wang J, et al. <b>Reinforcement Learning Assisted Bandwidth Aware Virtual Network Resource Allocation[J]</b>. IEEE Transactions on Network and Service Management, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9858867/)
+* Ye T, Zhang J, Zhao C, et al. <b>Service Function Chain Orchestration in 6G Software Defined Satellite-Ground Integrated Networks[C]</b>//2022 6th International Conference on Communication and Information Systems (ICCIS). IEEE, 2022: 71-76. [Link](https://link.springer.com/article/10.1007/s12083-022-01327-2)
+* Li T, Zhou X, Yan S, et al. <b>Service function path selection methods for multi-layer satellite networks[J]</b>. Peer-to-Peer Networking and Applications, 2022, 15(5): 2161-2178. [Link](https://link.springer.com/article/10.1007/s12083-022-01327-2)
+* Qin X, Ma T, Tang Z, et al. <b>SFC Enabled Data Delivery for Ultra-Dense LEO Satellite-Terrestrial Integrated Network[C]</b>//GLOBECOM 2022-2022 IEEE Global Communications Conference. IEEE, 2022: 668-673. [Link](https://ieeexplore.ieee.org/abstract/document/10001236/)
+* Zhang P, Yang P, Kumar N, et al. <b>Space-Air-Ground Integrated Network Resource Allocation Based on Service Function Chain[J]</b>. IEEE Transactions on Vehicular Technology, 2022, 71(7): 7730-7738. [Link](https://ieeexplore.ieee.org/abstract/document/9749937/)
+* Minardi M, Vu T X, Lei L, et al. <b>Virtual Network Embedding for NGSO Systems: Algorithmic Solution and SDN-Testbed Validation[J]</b>. IEEE Transactions on Network and Service Management, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9966931/)
+
 ### 2021
 * Guo Y, Li Q, Li Y, et al. <b>Service Coordination in the Space-Air-Ground Integrated Network[J]</b>. IEEE Network, 2021, 35(5): 168-173. [Link](https://ieeexplore.ieee.org/abstract/document/9606832/)
 * Jia Z, Sheng M, Li J, et al. <b>VNF-based Service Provision in Software Defined LEO Satellite Networks[J]</b>. IEEE Transactions on Wireless Communications, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9406391/)
