@@ -13,6 +13,9 @@ If you find this repository helpful, you may consider cite our relevant work:
 * Miao Y, Cheng Z, Li W, et al. <b>Software defined integrated satellite-terrestrial network: A survey[C]</b>//International conference on space information network. Springer, Singapore, 2016: 16-25. [Link](https://link.springer.com/chapter/10.1007/978-981-10-4403-8_2)
 
 ## Architectures
+### 2022
+* Jia M, Zhang L, Wu J, et al. <b>Collaborative Satellite-Terrestrial Edge Computing Network for Everyone-Centric Customized Services[J]</b>. IEEE Network, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9999289)
+
 ### 2021
 * Al-Hraishawi H, Minardi M, Chougrani H, et al. <b>Multi-layer Space Information Networks: Access Design and Softwarization[J]</b>. IEEE Access, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9627690/)
 * Zhang P, Wang C, Kumar N, et al. <b>Space-Air-Ground Integrated Multi-Domain Network Resource Orchestration Based on Virtual Network Architecture: A DRL Method[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9505612/)
